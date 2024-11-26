@@ -1,6 +1,4 @@
-<p align="center">
-    <img src="https://cdn.dribbble.com/users/116207/screenshots/3848914/media/7e2053fa074b3a8c9a5a5e7996b9c4de.gif" alt="Coding" width="400" />
-</p>
+
 
 [![MasterHead](https://via.placeholder.com/1200x400.png?text=Welcome+to+My+GitHub+Profile)](https://github.com/mr-hemanth)
 
