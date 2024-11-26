@@ -1,28 +1,37 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<p align="center">
+    <img src="https://cdn.dribbble.com/users/116207/screenshots/3848914/media/7e2053fa074b3a8c9a5a5e7996b9c4de.gif" alt="Coding" width="400" />
+</p>
+
+[![MasterHead](https://via.placeholder.com/1200x400.png?text=Welcome+to+My+GitHub+Profile)](https://github.com/mr-hemanth)
 
 <h1 align="center">Hi 👋, I'm Hemanth Reddy Dwarampudi</h1>
 <h3 align="center">A passionate Student from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-hemanth&label=Profile%20views&color=0e75b6&style=flat" alt="mr-hemanth" /> </p>
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=mr-hemanth" alt="mr-hemanth" />
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=mr-hemanth&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 
-- 🌱 I’m currently learning **DS**
+- 🌱 I’m currently learning **Data Structures**
 
-- 💬 Ask me about **MERN, Python**
+- 💬 Ask me about **MERN Stack, Python**
 
 - 📫 How to reach me: **hemanthreddydwarampudi@gmail.com**
 
-- 📄 Know about my experiences: [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://my-portfolio-vert-three-30.vercel.app)
+- 📄 Know about my experiences: [Portfolio Website](https://my-portfolio-vert-three-30.vercel.app)
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/hemanth reddy" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemanth reddy" height="30" width="40" />
-  </a>
+    <a href="https://linkedin.com/in/hemanthreddy" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    </a>
+    <a href="https://github.com/mr-hemanth" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
+    </a>
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -72,7 +81,16 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
   </a>
 </p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-hemanth&" alt="mr-hemanth" />
+<h3 align="left">GitHub Stats:</h3>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-hemanth&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-hemanth&theme=radical" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mr-hemanth&theme=radical" alt="Profile Details" />
+</p>
+
+---
+
+<h3 align="center">Happy Coding! 😊</h3>
