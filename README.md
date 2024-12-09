@@ -1,9 +1,9 @@
 
 
-[![MasterHead](https://via.placeholder.com/1200x400.png?text=Welcome+to+My+GitHub+Profile)](https://github.com/mr-hemanth)
+[![MasterHead](https://via.placeholder.com/1200x400.png?text=Code.+Create.+Collaborate.+Welcome+to+My+GitHub+Journey!)](https://github.com/mr-hemanth)
 
 <h1 align="center">Hi 👋, I'm Hemanth Reddy Dwarampudi</h1>
-<h3 align="center">A passionate Student from India</h3>
+<h3 align="center">A passionate Learner from India</h3>
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=mr-hemanth&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
